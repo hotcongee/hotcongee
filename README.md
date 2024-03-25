@@ -1,9 +1,19 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Finn! <br/><a href="www.linkedin.com/in/sofianefendi">Cybersecurity Student & Enthusiast</a></h1>
+I am an Information Technology specialist & enthusiast in cybersecurity and cloud computing sector.
+  My strong interest are in Security Operation Analyst.
+  
+- 🔭 I’m currently looking for a security analyst job
+  
+- 🌱 I’m currently learning SIEM and Detection Engineering
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- ⚡ Fun fact: I'm a fitness enthusiast and foodie
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- 📫 How to reach me: efendi.finn@gmail.com
+
+<h2>👨‍💻 My Projects:</h2>
+
+- <b>Azure Cloud SOC</b>
+  - [Live SOC using Microsoft Sentinel & HoneyNet on Azure](https://github.com/hotcongee/Azure-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -33,10 +43,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/sofianefendi
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
