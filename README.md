@@ -14,6 +14,9 @@ I am an Information Technology specialist & enthusiast in cybersecurity and clou
 
 - <b>Azure Cloud SOC</b>
   - [Live SOC using Microsoft Sentinel & HoneyNet on Azure](https://github.com/hotcongee/Azure-SOC)
+ 
+- <b>Detection Engineering (Elastic SIEM) - Coming Soon</b>
+  - [Elastic SIEM & Detection Rules Customisation](https://github.com/hotcongee/Detection-Engineering---Elastic-SIEM-Coming-Soon-)
 
 <h2> 🤳 Connect with me:</h2>
 
